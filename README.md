@@ -1,4 +1,4 @@
-**Repository Name: Titanic Passenger Data Processing**
+**Repository Name: Data cleaning with sql**
 
 **Description:**
 This repository contains SQL scripts for processing and cleaning Titanic passenger data. The scripts aim to make the dataset more readable and comprehensive by transforming certain columns and handling null values appropriately.
