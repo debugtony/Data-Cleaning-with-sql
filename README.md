@@ -4,11 +4,11 @@
 This repository contains SQL scripts for processing and cleaning Titanic passenger data. The scripts aim to make the dataset more readable and comprehensive by transforming certain columns and handling null values appropriately.
 
 **Files:**
-1. `titanic_data_processing.sql`: SQL script for processing Titanic passenger data.
+1. `Titanic dataset cleaning.sql`: SQL script for processing Titanic passenger data.
 2. `README.md`: Markdown file containing information about the repository.
 
 **Usage:**
-1. Execute the SQL script `titanic_data_processing.sql` in a database management system (e.g., MySQL, PostgreSQL) to process the Titanic passenger data.
+1. Execute the SQL script `Titanic dataset cleaning.sql` in a database management system (e.g., MySQL, PostgreSQL) to process the Titanic passenger data.
 2. The script performs the following tasks:
    - Changes the 'Survived' column from 1 and 0 to 'Yes' and 'No', respectively.
    - Converts the data type of the 'Survived' column from int to varchar.
